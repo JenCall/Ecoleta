@@ -35,6 +35,17 @@ Thanks Rocketseat for this amazing week!
 </p>
 <p align="center">
     <a href="https://ibb.co/wRrD7MQ"><img src="https://i.ibb.co/ZV1ySWg/pesquise.png" alt="pesquise" border="0"></a>
-</p>    
-
+</p> 
+<p align="center">
+    <a href="https://ibb.co/KNd02KR"><img src="https://i.ibb.co/SQbstfW/resultado1.png" alt="resultado1" border="0"></a>
+</p> 
+<p align="center">
+    <a href="https://ibb.co/JK5RRN8"><img src="https://i.ibb.co/ZVW663v/resultado3.png" alt="resultado3" border="0"></a>
+</p> 
+<p align="center">
+    <a href="https://ibb.co/K9GNQyc"><img src="https://i.ibb.co/sFP5D3p/resultado2.png" alt="resultado2" border="0"></a>
+</p> 
+<p align="center">
+    <a href="https://ibb.co/jwwYThC"><img src="https://i.ibb.co/rpphmkB/Cadatre-ponto-de-coleta.png" alt="Cadatre-ponto-de-coleta" border="0"></a>
+</p> 
 
