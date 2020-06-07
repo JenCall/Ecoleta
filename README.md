@@ -59,3 +59,19 @@ Thanks Rocketseat for this amazing week!
     <a href="https://ibb.co/zshJdcL"><img src="https://i.ibb.co/b1gJthy/Mobile-Responsive.png" alt="Mobile-Responsive" border="0"></a>
 </p> 
 
+## :rocket: Technologies
+
+This project was developed at the **Next Level Week #1.0** by [Rockseat](https://rocketseat.com.br/) using the following technologies & tools & dependencies:
+
+-  [Node.js](nodejs)
+-  [React Native](https://reactnative.dev/)
+-  [JavaScript]
+-  [VS Code][vc]
+-  [Express]
+
+
+## :cloud: External API
+
+-  [IBGE](https://servicodados.ibge.gov.br/api/docs/localidades)
+
+
