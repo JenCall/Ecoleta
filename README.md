@@ -7,4 +7,6 @@ In this first edition, we develped a #full stack application# (Frontend and Back
 
 Thanks Rocketseat for this amazing week!
 
+JavaScript / HTML 5 / CSS / Node
+
 
