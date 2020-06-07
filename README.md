@@ -55,7 +55,7 @@ Thanks Rocketseat for this amazing week!
 
 ## :rocket: Technologies
 
-This project was developed at the **Next Level Week #1.0** by [Rockseat](https://rocketseat.com.br/) using the following technologies & tools & dependencies:
+This project was developed at the **Next Level Week #1.0** by [Rocketseat](https://rocketseat.com.br/) using the following technologies & tools & dependencies:
 
 -  [Node.js](nodejs)
 -  JavaScript
