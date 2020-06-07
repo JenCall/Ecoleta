@@ -33,6 +33,8 @@ Thanks Rocketseat for this amazing week!
 <p align="center">
     <a href="https://ibb.co/8YgFSnc"><img src="https://i.ibb.co/9ZHRCmt/home-page.png" alt="home-page" border="0"></a>
 </p>
-
+<p align="center">
+    <a href="https://ibb.co/wRrD7MQ"><img src="https://i.ibb.co/ZV1ySWg/pesquise.png" alt="pesquise" border="0"></a>
+</p>    
 
 
