@@ -1,3 +1,8 @@
+<h1 align="center">
+    <img style="width:70%" alt="Logo NLW#1" src="https://i.ibb.co/fM1cmy8/path899.png" />
+    <br>
+</h1>
+
 # Ecoleta
 Next Level Week 1.0 - Rocketseat - Projeto: Ecoleta.
 
@@ -7,6 +12,16 @@ In this first edition, we develped a #full stack application# (Frontend and Back
 
 Thanks Rocketseat for this amazing week!
 
-JavaScript / HTML 5 / CSS / Node
+<p align="center">
+    <img alt="npm" src="https://img.shields.io/npm/v/npm?color=%23FF0000">
+    <img alt="node" src="https://img.shields.io/badge/node-v12.18.0-brightgreen" />
+    <img alt="node" src="https://img.shields.io/badge/expo-v3.21.5-lightgrey" />
+    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/taironedias/next-level-week" />
+    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/taironedias/next-level-week" />
+    <a target="_blank" href="https://wakatime.com/projects/next-level-week?start=2020-05-31&end=2020-06-06">
+        <img alt="GitHub last commit" src="https://img.shields.io/badge/development%20time-13%20hrs%2053%20mins-orange" />
+    </a>
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/taironedias/next-level-week" />
+</p>
 
 
