@@ -58,8 +58,9 @@ Thanks Rocketseat for this amazing week!
 This project was developed at the **Next Level Week #1.0** by [Rockseat](https://rocketseat.com.br/) using the following technologies & tools & dependencies:
 
 -  [Node.js](nodejs)
--  [React Native](https://reactnative.dev/)
 -  JavaScript
+-  HTML5
+-  CSS3
 -  VS Code
 -  Express
 -  SQlite3
