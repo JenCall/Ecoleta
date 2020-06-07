@@ -3,8 +3,7 @@
     <br>
 </h1>
 
-# Ecoleta
-Next Level Week 1.0 - Rocketseat - Projeto: Ecoleta.
+# Next Level Week 1.0 - Rocketseat - Projeto: Ecoleta.
 
 NLW is a practical workshop offered by Rocketseat with lots of learning, code, challenges and networking with a single goal => to take you to a next level!
 
@@ -23,5 +22,17 @@ Thanks Rocketseat for this amazing week!
     </a>
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/taironedias/next-level-week" />
 </p>
+
+<p align="center">
+  <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#bookmark_tabs-dependencies">Dependencies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#information_source-how-to-use">How To Use</a>
+</p>
+
+#### :globe_with_meridians: [Web app]
+<p align="center">
+    <a href="https://ibb.co/8YgFSnc"><img src="https://i.ibb.co/9ZHRCmt/home-page.png" alt="home-page" border="0"></a>
+</p>
+
 
 
