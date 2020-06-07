@@ -17,11 +17,10 @@ Thanks Rocketseat for this amazing week!
     <img alt="node" src="https://img.shields.io/badge/expo-v3.21.5-lightgrey" />
     <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/jencall/ecoleta">
     <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/jencall/ecoleta">
-    
 </p>
 
 <p align="center">
-  <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-technologies"> Technologies </a>
 </p>
 
 #### :globe_with_meridians: [Web app]
