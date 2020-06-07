@@ -15,18 +15,14 @@ Thanks Rocketseat for this amazing week!
     <img alt="npm" src="https://img.shields.io/npm/v/npm?color=%23FF0000">
     <img alt="node" src="https://img.shields.io/badge/node-v12.18.0-brightgreen" />
     <img alt="node" src="https://img.shields.io/badge/expo-v3.21.5-lightgrey" />
-    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/taironedias/next-level-week" />
-    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/taironedias/next-level-week" />
-    <a target="_blank" href="https://wakatime.com/projects/next-level-week?start=2020-05-31&end=2020-06-06">
-        <img alt="GitHub last commit" src="https://img.shields.io/badge/development%20time-13%20hrs%2053%20mins-orange" />
-    </a>
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/taironedias/next-level-week" />
+    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/jencall/ecoleta">
+    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/jencall/ecoleta">
+    
 </p>
 
 <p align="center">
   <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#bookmark_tabs-dependencies">Dependencies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#information_source-how-to-use">How To Use</a>
 </p>
 
 #### :globe_with_meridians: [Web app]
@@ -65,9 +61,10 @@ This project was developed at the **Next Level Week #1.0** by [Rockseat](https:/
 
 -  [Node.js](nodejs)
 -  [React Native](https://reactnative.dev/)
--  [JavaScript]
--  [VS Code][vc]
--  [Express]
+-  JavaScript
+-  VS Code
+-  Express
+-  SQlite3
 
 
 ## :cloud: External API
